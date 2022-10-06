@@ -1,6 +1,10 @@
-# Hacktoberfest 2022
+# HACTOBERFEST 2022 🎯
 
 ![Hacktoberfest2022](https://images.prismic.io/www-static/1cd0d641-4e0e-4ba3-8386-3125627394fa_Email+Banners-Dark.png?auto=compress,format)
+
+
+<img src="https://img.shields.io/badge/language-C++-ff69b4?style=for-the-badge"> <img src="https://img.shields.io/badge/language-C-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/language-python-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/language-javascript-orange?style=for-the-badge"> <a href="https://raw.githubusercontent.com/Py-Contributors/AlgorithmsAndDataStructure/master/LICENSE"><img src="https://img.shields.io/github/license/Py-Contributors/AlgorithmsAndDataStructure?style=for-the-badge" alt="MIT license"></a> <br>
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 
 ## About this Repository
 
