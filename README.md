@@ -1,6 +1,3 @@
-# Graph Algorithms in Cpp
-
-
 # Hacktoberfest 2022
 
 ![Hacktoberfest2022](https://images.prismic.io/www-static/1cd0d641-4e0e-4ba3-8386-3125627394fa_Email+Banners-Dark.png?auto=compress,format)
