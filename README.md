@@ -55,13 +55,21 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 ## Contributing🌱
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
+1. Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
 #### Name: [YOUR NAME](GitHub link)
 - Place: City, State, Country
 - Bio: Who are you?
 - GitHub: [GitHub account name](GitHub link)
+```
+
+2. Create a new or add to existing directory which your alogrithms belongs to
+
+```markdown
+#### For example:
+Your algorithm used for sorting an array
+Add this to Sorting directory if it exists otherwise create it.
 ```
 
 
