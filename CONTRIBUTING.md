@@ -30,4 +30,6 @@ Create a new or add to existing directory which your alogrithms belongs to
 #### For example:
 - If your algorithm designed for sorting an array
 - Add this to the Sorting directory if it exists otherwise create it.
+- Inside the respective directory find your code language folder Cpp, Python or JavaScript.
+- If not present then create it and add your code here.
 ```
