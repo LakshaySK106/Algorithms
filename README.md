@@ -85,5 +85,5 @@ Add this to Sorting directory if it exists otherwise create it.
 	</tr>
 </table>
 
-# License
+## License
 By contributing, you agree that your contributions will be licensed under its [MIT License.](https://choosealicense.com/licenses/mit/)
