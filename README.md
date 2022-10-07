@@ -73,6 +73,10 @@ Check the [Contribution](CONTRIBUTING.md) Guide.<br>
 		</td>
 	</tr>
 </table>
+<!-- 
+<a href = "https://github.com/LakshaySK106/Algorithms/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = LakshaySK106/Algorithms"/>
+</a> -->
 
 ## License
 By contributing, you agree that your contributions will be licensed under its [MIT License.](https://choosealicense.com/licenses/mit/)
