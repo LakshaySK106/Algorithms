@@ -20,7 +20,7 @@
 - Place: Kolkata, India
 - Bio: Software undergrad at Netaji Subhash Engineering College, Kolkata, India
 - GitHub: [sampaddey](https://github.com/sampaddey)
-=======
+
 #### Name: [Anirban](https://github.com/D-Anir)
 
 - Place: Kolkata, India
