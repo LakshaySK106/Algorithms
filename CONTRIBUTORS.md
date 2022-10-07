@@ -9,3 +9,9 @@
 - Place: Delhi, India
 - Bio: Software undergrad at Delhi Technological University, Delhi, India
 - GitHub: [amitbatra31](https://github.com/amitbatra31)
+
+#### Name: [Sampad](https://github.com/sampaddey)
+
+- Place: Kolkata, India
+- Bio: Software undergrad at Netaji Subhash Engineering College, Kolkata, India
+- GitHub: [sampaddey](https://github.com/sampaddey)
