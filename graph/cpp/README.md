@@ -20,4 +20,38 @@ DFS Diagram:
 **Time complexity:** O(V + E), where V is the number of vertices and E is the number of edges in the graph.</br>
 **Auxiliary Space:** O(V), since an extra visited array of size V is required.</br></br>
 
+
+## Breadth First Search (BFS)
+
+Breadth-First Traversal (or Search) for a graph is similar to Breadth-First Traversal of a tree (See method 2 of this post). 
+The only catch here is, that, unlike trees, graphs may contain cycles, so we may come to the same node again. To avoid processing a node more than once, we divide the vertices into two categories:
+- Visited and
+- Not visited.
+
+A boolean visited array is used to mark the visited vertices. For simplicity, it is assumed that all vertices are reachable from the starting vertex. BFS uses a queue data structure for traversal.
+
+**Example:**
+
+In the following graph, we start traversal from vertex 2.
+
+
+When we come to vertex 0, we look for all adjacent vertices of it. 
+- 2 is also an adjacent vertex of 0. 
+- If we don’t mark visited vertices, then 2 will be processed again and it will become a non-terminating process.
+
+There can be multiple BFS traversals for a graph. Different BFS traversals for the above graph:
+2, 3, 0, 1
+2, 0, 3, 1
+
+**Steps for BFS Algorithm:**
+- Declare a queue and insert the starting vertex.
+- Initialize a visited array and mark the starting vertex as visited.
+- Follow the below process till the queue becomes empty:
+- Remove the first vertex of the queue.
+- Mark that vertex as visited.
+- Insert all the unvisited neighbours of the vertex into the queue.
+
+**Time Complexity:** O(V+E), where V is the number of nodes and E is the number of edges.</br>
+**Auxiliary Space:** O(V)
+
 **Diagram Reference:** geeksforgeeks
