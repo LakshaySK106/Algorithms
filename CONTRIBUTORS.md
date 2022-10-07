@@ -9,3 +9,9 @@
 - Place: Delhi, India
 - Bio: Software undergrad at Delhi Technological University, Delhi, India
 - GitHub: [amitbatra31](https://github.com/amitbatra31)
+
+#### Name: [Anirban](https://github.com/D-Anir)
+
+- Place: Kolkata, India
+- Bio: Software Undergrad at Jadavpur University, Kolkata, India
+- GitHub: [D-Anir](https://github.com/D-Anir)
