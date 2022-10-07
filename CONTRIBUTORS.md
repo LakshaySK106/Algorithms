@@ -26,3 +26,9 @@
 - Place: Gujarat, India
 - Bio: Final year at IIIT Kalyani
 - GitHub: [akash-rajak](https://github.com/akash-rajak)
+
+#### Name: [Sparsh Garg](https://github.com/sparsh9)
+
+- Place: Uttar Pradesh, India
+- Bio: Backend Developer at 7Classes
+- GitHub: [sparsh9](https://github.com/sparsh9)
