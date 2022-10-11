@@ -44,3 +44,9 @@
 - Place: New Delhi, India
 - Bio: Student
 - GitHub: [GeetanjaliVerma](https://github.com/geetanjaliverma)
+
+#### Name: [Alisha Agarwal](https://github.com/alishaa561112)
+
+- Place: Kolkata, India
+- Bio: Student
+- Github: [alishaa561112](https://github.com/alishaa561112)
