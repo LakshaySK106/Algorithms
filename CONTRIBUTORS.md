@@ -33,9 +33,20 @@
 - Bio: Final year at IIIT Kalyani
 - GitHub: [akash-rajak](https://github.com/akash-rajak)
 
+#### Name: [Sparsh Garg](https://github.com/sparsh9)
+
+- Place: Uttar Pradesh, India
+- Bio: Backend Developer at 7Classes
+- GitHub: [sparsh9](https://github.com/sparsh9)
+
 #### Name: [Geetanjali Verma](https://github.com/geetanjaliverma)
 
 - Place: New Delhi, India
 - Bio: Student
 - GitHub: [GeetanjaliVerma](https://github.com/geetanjaliverma)
 
+#### Name: [Alisha Agarwal](https://github.com/alishaa561112)
+
+- Place: Kolkata, India
+- Bio: Student
+- Github: [alishaa561112](https://github.com/alishaa561112)
