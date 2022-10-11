@@ -38,3 +38,9 @@
 - Place: Uttar Pradesh, India
 - Bio: Backend Developer at 7Classes
 - GitHub: [sparsh9](https://github.com/sparsh9)
+
+#### Name: [Geetanjali Verma](https://github.com/geetanjaliverma)
+
+- Place: New Delhi, India
+- Bio: Student
+- GitHub: [GeetanjaliVerma](https://github.com/geetanjaliverma)
