@@ -50,3 +50,9 @@
 - Place: Kolkata, India
 - Bio: Student
 - Github: [alishaa561112](https://github.com/alishaa561112)
+
+#### Name: [Himanshu Mohanty](https://github.com/HimanshuMohanty-Git24)
+
+- Place: BBSR, India
+- Bio: 2nd year CSE student at KIIT university
+- Github: [HimanshuMohanty-Git24](https://github.com/HimanshuMohanty-Git24)
