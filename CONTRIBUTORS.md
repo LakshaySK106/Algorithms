@@ -56,3 +56,10 @@
 - Place: BBSR, India
 - Bio: 2nd year CSE student at KIIT university
 - Github: [HimanshuMohanty-Git24](https://github.com/HimanshuMohanty-Git24)
+
+
+#### Name: [Sitanshu Pokalwar](https://github.com/Sitzz23)
+
+- Place: Chennai, India
+- Bio: 3rd year CSE student at SRM university
+- Github: [Sitzz23](https://github.com/Sitzz23)
