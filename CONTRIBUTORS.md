@@ -63,3 +63,8 @@
 - Place: Chennai, India
 - Bio: 3rd year CSE student at SRM university
 - Github: [Sitzz23](https://github.com/Sitzz23)
+
+#### Name: [Harshit Mittal](https://github.com/CodeWizard16)
+- Place: Delhi, India
+- Bio: Computer Science undergrad at Netaji Subhas University of Technology, Delhi, India
+- GitHub: [Harshit Mittal](https://github.com/CodeWizard16)
