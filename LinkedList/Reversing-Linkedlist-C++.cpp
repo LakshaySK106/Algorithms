@@ -1,10 +1,11 @@
-#include <iostream>
 #include <bits/stdc++.h>
+#define ll long long
 using namespace std;
 
 struct node
 {
     int num;
+    int var;
     node *next;
 }*head; //node constructed
 
