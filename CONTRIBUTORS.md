@@ -63,3 +63,9 @@
 - Place: Chennai, India
 - Bio: 3rd year CSE student at SRM university
 - Github: [Sitzz23](https://github.com/Sitzz23)
+
+#### Name: [Kartik Gupta](https://github.com/CoderKartik-1)
+
+- Place: Delhi, India
+- Bio: 3rd year CSE student at DTU
+- Github: [CoderKartik-1](https://github.com/CoderKartik-1)
