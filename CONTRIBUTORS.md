@@ -69,3 +69,10 @@
 - Place: Delhi, India
 - Bio: 3rd year CSE student at DTU
 - Github: [CoderKartik-1](https://github.com/CoderKartik-1)
+
+
+#### Name: [Udit Gogia](https://github.com/Udit-Gogia)
+
+- Place: Chennai, India
+- Bio: 3rd year CSE student at SRM university
+- Github: [Udit-Gogia](https://github.com/Udit-Gogia)
