@@ -10,6 +10,11 @@
 - Bio: Software undergrad at Delhi Technological University, Delhi, India
 - GitHub: [LakshaySK106](https://github.com/LakshaySK106)
 
+#### Name: [Subhash](https://github.com/isheoran)
+- Place: Haryana, India
+- Bio: Computer Science undergrad at IIT BHU, Varansi, India
+- GitHub: [Subhash](https://github.com/isheoran)
+
 #### Name: [Harshit](https://github.com/HarshitMittal01)
 - Place: Delhi, India
 - Bio: Computer Science undergrad at Netaji Subhas University of Technology, Delhi, India
@@ -63,7 +68,6 @@
 - Bio: 2nd year CSE student at KIIT university
 - Github: [HimanshuMohanty-Git24](https://github.com/HimanshuMohanty-Git24)
 
-
 #### Name: [Sitanshu Pokalwar](https://github.com/Sitzz23)
 
 - Place: Chennai, India
@@ -76,7 +80,23 @@
 - Bio: 3rd year CSE student at DTU
 - Github: [CoderKartik-1](https://github.com/CoderKartik-1)
 
+
 #### Name: [Abhikanksh Chand](https://github.com/Abhikanksh-Chand)
 - Place: Chennai, India
 - Bio: 3rd year CSE student at SRM university
-- GitHub: [GitHub account name](https://github.com/Abhikanksh-Chand)
+- GitHub: [Abhikanksh-Chand](https://github.com/Abhikanksh-Chand)
+
+
+#### Name: [Udit Gogia](https://github.com/Udit-Gogia)
+
+- Place: Chennai, India
+- Bio: 3rd year CSE student at SRM university
+- Github: [Udit-Gogia](https://github.com/Udit-Gogia)
+
+#### Name: [Arnav Jain](https://github.com/arnav5246)
+
+- Place: Chennai, India
+- Bio: 3rd year CSE student at SRM university
+- Github: [arnav5246](https://github.com/arnav5246)
+
+
