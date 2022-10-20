@@ -10,6 +10,11 @@
 - Bio: Software undergrad at Delhi Technological University, Delhi, India
 - GitHub: [LakshaySK106](https://github.com/LakshaySK106)
 
+#### Name: [Subhash](https://github.com/isheoran)
+- Place: Haryana, India
+- Bio: Computer Science undergrad at IIT BHU, Varansi, India
+- GitHub: [Subhash](https://github.com/isheoran)
+
 #### Name: [Harshit](https://github.com/HarshitMittal01)
 - Place: Delhi, India
 - Bio: Computer Science undergrad at Netaji Subhas University of Technology, Delhi, India
@@ -62,7 +67,6 @@
 - Place: BBSR, India
 - Bio: 2nd year CSE student at KIIT university
 - Github: [HimanshuMohanty-Git24](https://github.com/HimanshuMohanty-Git24)
-
 
 #### Name: [Sitanshu Pokalwar](https://github.com/Sitzz23)
 
