@@ -69,3 +69,8 @@
 - Place: Delhi, India
 - Bio: 3rd year CSE student at DTU
 - Github: [CoderKartik-1](https://github.com/CoderKartik-1)
+
+#### Name: [Abhikanksh Chand](https://github.com/Abhikanksh-Chand)
+- Place: Chennai, India
+- Bio: 3rd year CSE student at SRM university
+- GitHub: [GitHub account name](https://github.com/Abhikanksh-Chand)
