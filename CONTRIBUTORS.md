@@ -1,3 +1,9 @@
+#### Name: [Harshit](https://github.com/harshitkochhar)
+
+- Place: Greater Noida, India
+- Bio: Software undergrad at SRM Institute Of Science And Technology, Chennai, India
+- GitHub: [harshitkochhar](https://github.com/harshitkochhar)
+
 #### Name: [Lakshay](https://github.com/LakshaySK106)
 
 - Place: Delhi, India
@@ -70,9 +76,15 @@
 - Bio: 3rd year CSE student at DTU
 - Github: [CoderKartik-1](https://github.com/CoderKartik-1)
 
-
 #### Name: [Udit Gogia](https://github.com/Udit-Gogia)
 
 - Place: Chennai, India
 - Bio: 3rd year CSE student at SRM university
 - Github: [Udit-Gogia](https://github.com/Udit-Gogia)
+
+#### Name: [Arnav Jain](https://github.com/arnav5246)
+
+- Place: Chennai, India
+- Bio: 3rd year CSE student at SRM university
+- Github: [arnav5246](https://github.com/arnav5246)
+
