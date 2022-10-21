@@ -92,3 +92,9 @@
 - Bio: 3rd year CSE student at SRM university
 - Github: [arnav5246](https://github.com/arnav5246)
 
+#### Name: [Varun Joshi](https://github.com/VarunJoshi10)
+
+- Place: Nagpur, India
+- Bio: 3rd year CSE student at RCOEM
+- Github: [VarunJoshi10](https://github.com/VarunJoshi10)
+
