@@ -1,14 +1,14 @@
-#### Name: [Harshit](https://github.com/harshitkochhar)
-
-- Place: Greater Noida, India
-- Bio: Software undergrad at SRM Institute Of Science And Technology, Chennai, India
-- GitHub: [harshitkochhar](https://github.com/harshitkochhar)
-
 #### Name: [Lakshay](https://github.com/LakshaySK106)
 
 - Place: Delhi, India
 - Bio: Software undergrad at Delhi Technological University, Delhi, India
 - GitHub: [LakshaySK106](https://github.com/LakshaySK106)
+
+#### Name: [Harshit](https://github.com/harshitkochhar)
+
+- Place: Greater Noida, India
+- Bio: Software undergrad at SRM Institute Of Science And Technology, Chennai, India
+- GitHub: [harshitkochhar](https://github.com/harshitkochhar)
 
 #### Name: [Subhash](https://github.com/isheoran)
 - Place: Haryana, India
