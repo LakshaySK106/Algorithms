@@ -92,9 +92,16 @@
 - Bio: 3rd year CSE student at SRM university
 - Github: [arnav5246](https://github.com/arnav5246)
 
+#### Name: [Aniket](https://github.com/aniketsingh222)
+
+- Place:  Delhi, India
+- Bio: Software undergrad at SRM Institute Of Science And Technology, Chennai, India
+- GitHub: [aniketsingh222](https://github.com/aniketsingh222)
+
 #### Name: [Varun Joshi](https://github.com/VarunJoshi10)
 
 - Place: Nagpur, India
 - Bio: 3rd year CSE student at RCOEM
 - Github: [VarunJoshi10](https://github.com/VarunJoshi10)
+
 
