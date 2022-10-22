@@ -111,4 +111,8 @@
 - Bio: 3rd year CSE student at RCOEM
 - Github: [VarunJoshi10](https://github.com/VarunJoshi10)
 
+#### Name: [Bhavil Ahuja](https://github.com/Bhavil-Ahuja)
 
+- Place: New Delhi, India
+- Bio: 3rd year SE student at DTU
+- Github: [Bhavil-Ahuja](https://github.com/Bhavil-Ahuja)
