@@ -8,11 +8,15 @@
 # Special Note For Everyone 🎃
 ```py
 '''
-Always make more than 4 pull requests. If you have made only 4 pull requests to different projects and one of those projects is excluded from the Hacktoberfest event, then that pull request will not be counted, leaving you with only 3 valid pull requests if those projects are not excluded.
+Always make more than 4 pull requests. If you have made only 4 pull requests to different
+projects and if one of those projects is excluded from the Hacktoberfest event, then that
+pull request will not be counted, leaving you with only 3 valid pull requests if those projects
+are not excluded.
 
 If you fail to make 4 valid pull requests, you won't be eligible for swags or t-shirts.
 
-I recommend that you make pull requests to your own repository, as this is a very safe option for you. Just ensure that your repository has the Hacktoberfest topic.
+I recommend that you make pull requests to your own repository, as this is a very safe option
+for you. Just ensure that your repository has the Hacktoberfest topic.
 '''
 ```
 
